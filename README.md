@@ -3,7 +3,7 @@
 ##  Overview
 This script implements a **TCP socket listener** that allows a system to accept incoming connections and execute commands remotely. It facilitates file transfers and command execution between the listener and the connected client.
 
-## 🛠 Features
+##  Features
 - Listens for incoming connections on a specified IP and port.
 - Supports remote command execution.
 - Can send and receive files using **Base64 encoding**.
